@@ -2,9 +2,9 @@
 [![MIT License][license-shield]][license-url]
 [![Discord][discord-shield]][discord-url]
 
-<h1 align="center"> SP02__ </h1>
+<h1 align="center"> SP0216 </h1>
 
-This is the folder for team SP02__ participating in StudyPods v2.0 by Developers Student Club MBM.
+This is the folder for team SP0216 participating in StudyPods v2.0 by Developers Student Club MBM.
 
 <details open="open">
   <summary>Table of Contents</summary>
@@ -13,7 +13,7 @@ This is the folder for team SP02__ participating in StudyPods v2.0 by Developers
       <a href="#about-studypods-v2.0">About StudyPods v2.0</a>
     </li>
     <li>
-      <a href="#sp0201">SP02__</a>
+      <a href="#sp0201">SP0216</a>
       <ul>
         <li><a href="#team">Team</a></li>
         <li><a href="#mentor">Mentor</a></li>
@@ -54,21 +54,21 @@ This is the folder for team SP02__ participating in StudyPods v2.0 by Developers
 
 Study pods is an initiative taken by DSC MBM to promote peer-to-peer learning among the students with a notion that says “Learn Together, Build Together”.The program is designed to offer participants a good exposure of technology and the technical world. It is an approx one month-long program that connects like-minded participants interested in a particular domain to come together, learn together and then build together. StudyPod mentors assist participants with the roadmap, resources, take weekly updates and solve doubts which cannot be solved by the team members. At the end of the program each StudyPod needs to submit a project or a propsal for a paper that showcases their learnings during the program.
 
-## SP02__
+## SP0216
 
-SP02__ is an amazing team built by the efforts of its team members and the support of its mentors
+SP0216 is an amazing team built by the efforts of its team members and the support of its mentors
 
 ### Team
 
-Person1<br>
-Person2<br>
-Person3<br>
-Person4<br>
-Person5
+SHASHANK VYAS<br>
+MOHIT AGARWAL<br>
+SWATI<br>
+
+
 
 ### Mentor
 
-Mentor1
+TANMAY MATHUR
 
 ## Daily Logs
 
@@ -114,10 +114,9 @@ This section contains the details about the different projects made by the team.
 
 ### Project 1
 
-<!-- Add the summary of the project along with the link to the markdown file for the project. Check out the Sample Project.md to get the idea of the structure of the Project file.
--->
+TIC TAC TOE GAME 
+THIS A VERY SIMPLE AND FUN GAME IT IS PLAYED BY 2 PLAYERS ENJOY !!
 
-### Project 2
 
 ## License
 
@@ -126,9 +125,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 <!-- Share your contact details. Preferrably these details
-Email
-LinkedIn
-GitHub
+vyasshashank300@gmail.com
+https://www.linkedin.com/in/shashank-vyas-48b8bb1ba
+Shashank-300
 
 Note: Do not share your mobile number as it will expose it over the internet
 -->
